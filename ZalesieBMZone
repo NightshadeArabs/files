@@ -1,0 +1,13 @@
+{
+  "m_Version": 6,
+  "m_DisplayName": "Zalesie Black Market",
+  "Position": [
+    876,
+    245,
+    5489
+  ],
+  "Radius": 150,
+  "BuyPricePercent": 100,
+  "SellPricePercent": -1,
+  "Stock": {  }
+}
