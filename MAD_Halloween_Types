@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+    <!-- Combat Boots -->
+    <type name="MAD_Halloween_CombatBoots_Pumpkin">
+        <nominal>10</nominal>
+        <lifetime>4800</lifetime>
+        <restock>60</restock>
+        <min>0</min>
+        <quantmin>0</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="MAD_Halloween_CombatBoots_Jack">
+        <nominal>10</nominal>
+        <lifetime>4800</lifetime>
+        <restock>60</restock>
+        <min>0</min>
+        <quantmin>0</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="MAD_Halloween_CombatBoots_SklibaII">
+        <nominal>10</nominal>
+        <lifetime>4800</lifetime>
+        <restock>60</restock>
+        <min>0</min>
+        <quantmin>0</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="MAD_Halloween_CombatBoots_Skliba">
+        <nominal>10</nominal>
+        <lifetime>4800</lifetime>
+        <restock>60</restock>
+        <min>0</min>
+        <quantmin>0</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="MAD_Halloween_CombatBoots_Orange">
+        <nominal>10</nominal>
+        <lifetime>4800</lifetime>
+        <restock>60</restock>
+        <min>0</min>
+        <quantmin>0</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="MAD_Halloween_CombatBoots_Beetlejuice">
+        <nominal>10</nominal>
+        <lifetime>4800</lifetime>
+        <restock>60</restock>
+        <min>0</min>
+        <quantmin>0</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="MAD_Halloween_CombatBoots_BluePumpkin">
+        <nominal>10</nominal>
+        <lifetime>4800</lifetime>
+        <restock>60</restock>
+        <min>0</min>
+        <quantmin>0</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="MAD_Halloween_CombatBoots_PinkCross">
+        <nominal>10</nominal>
+        <lifetime>4800</lifetime>
+        <restock>60</restock>
+        <min>0</min>
+        <quantmin>0</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="MAD_Halloween_CombatBoots_GreenCross">
+        <nominal>10</nominal>
+        <lifetime>4800</lifetime>
+        <restock>60</restock>
+        <min>0</min>
+        <quantmin>0</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="MAD_Halloween_CombatBoots_PurpleCross">
+        <nominal>10</nominal>
+        <lifetime>4800</lifetime>
+        <restock>60</restock>
+        <min>0</min>
+        <quantmin>0</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+
+    <!-- Halloween Bags -->
+
+    <type name="MAD_HalloweenBag_Pumpkin">
+        <nominal>10</nominal>
+        <lifetime>4800</lifetime>
+        <restock>60</restock>
+        <min>0</min>
+        <quantmin>0</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="MAD_HalloweenBag_Jack">
+        <nominal>10</nominal>
+        <lifetime>4800</lifetime>
+        <restock>60</restock>
+        <min>0</min>
+        <quantmin>0</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="MAD_HalloweenBag_SklibaII">
+        <nominal>10</nominal>
+        <lifetime>4800</lifetime>
+        <restock>60</restock>
+        <min>0</min>
+        <quantmin>0</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="MAD_HalloweenBag_Skliba">
+        <nominal>10</nominal>
+        <lifetime>4800</lifetime>
+        <restock>60</restock>
+        <min>0</min>
+        <quantmin>0</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="MAD_HalloweenBag_Beetlejuice">
+        <nominal>10</nominal>
+        <lifetime>4800</lifetime>
+        <restock>60</restock>
+        <min>0</min>
+        <quantmin>0</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="MAD_HalloweenBag_Black">
+        <nominal>10</nominal>
+        <lifetime>4800</lifetime>
+        <restock>60</restock>
+        <min>0</min>
+        <quantmin>0</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="MAD_HalloweenBag_BluePumpkin">
+        <nominal>10</nominal>
+        <lifetime>4800</lifetime>
+        <restock>60</restock>
+        <min>0</min>
+        <quantmin>0</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>    
+            <!-- Jackets -->
+    <type name="MAD_Halloween_Jacket_Pumpkin">
+        <nominal>10</nominal>
+        <lifetime>4800</lifetime>
+        <restock>60</restock>
+        <min>0</min>
+        <quantmin>0</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="MAD_Halloween_Jacket_Jack">
+        <nominal>10</nominal>
+        <lifetime>4800</lifetime>
+        <restock>60</restock>
+        <min>0</min>
+        <quantmin>0</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="MAD_Halloween_Jacket_SklibaII">
+        <nominal>10</nominal>
+        <lifetime>4800</lifetime>
+        <restock>60</restock>
+        <min>0</min>
+        <quantmin>0</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+      <type name="MAD_Halloween_Jacket_Skliba">
+        <nominal>10</nominal>
+        <lifetime>4800</lifetime>
+        <restock>60</restock>
+        <min>0</min>
+        <quantmin>0</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="MAD_Halloween_Jacket_Black">
+        <nominal>10</nominal>
+        <lifetime>4800</lifetime>
+        <restock>60</restock>
+        <min>0</min>
+        <quantmin>0</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="MAD_Halloween_Jacket_Beetlejuice">
+        <nominal>10</nominal>
+        <lifetime>4800</lifetime>
+        <restock>60</restock>
+        <min>0</min>
+        <quantmin>0</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="MAD_Halloween_Jacket_BluePumpkin">
+        <nominal>10</nominal>
+        <lifetime>4800</lifetime>
+        <restock>60</restock>
+        <min>0</min>
+        <quantmin>0</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="MAD_Halloween_Jacket_PinkCross">
+        <nominal>10</nominal>
+        <lifetime>4800</lifetime>
+        <restock>60</restock>
+        <min>0</min>
+        <quantmin>0</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="MAD_Halloween_Jacket_GreenCross">
+        <nominal>10</nominal>
+        <lifetime>4800</lifetime>
+        <restock>60</restock>
+        <min>0</min>
+        <quantmin>0</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="MAD_Halloween_Jacket_PurpleCross">
+        <nominal>10</nominal>
+        <lifetime>4800</lifetime>
+        <restock>60</restock>
+        <min>0</min>
+        <quantmin>0</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+                                        <!--  Pants  -->
+    <type name="MAD_Halloween_Pants_Pumpkin">
+        <nominal>10</nominal>
+        <lifetime>4800</lifetime>
+        <restock>60</restock>
+        <min>0</min>
+        <quantmin>0</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="MAD_Halloween_Pants_Jack">
+        <nominal>10</nominal>
+        <lifetime>4800</lifetime>
+        <restock>60</restock>
+        <min>0</min>
+        <quantmin>0</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="MAD_Halloween_Pants_SklibaII">
+        <nominal>10</nominal>
+        <lifetime>4800</lifetime>
+        <restock>60</restock>
+        <min>0</min>
+        <quantmin>0</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="MAD_Halloween_Pants_Skliba">
+        <nominal>10</nominal>
+        <lifetime>4800</lifetime>
+        <restock>60</restock>
+        <min>0</min>
+        <quantmin>0</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="MAD_Halloween_Pants_Black">
+        <nominal>10</nominal>
+        <lifetime>4800</lifetime>
+        <restock>60</restock>
+        <min>0</min>
+        <quantmin>0</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="MAD_Halloween_Pants_Beetlejuice">
+        <nominal>10</nominal>
+        <lifetime>4800</lifetime>
+        <restock>60</restock>
+        <min>0</min>
+        <quantmin>0</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="MAD_Halloween_Pants_BluePumpkin">
+        <nominal>10</nominal>
+        <lifetime>4800</lifetime>
+        <restock>60</restock>
+        <min>0</min>
+        <quantmin>0</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="MAD_Halloween_Pants_PinkCross">
+        <nominal>10</nominal>
+        <lifetime>4800</lifetime>
+        <restock>60</restock>
+        <min>0</min>
+        <quantmin>0</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="MAD_Halloween_Pants_GreenCross">
+        <nominal>10</nominal>
+        <lifetime>4800</lifetime>
+        <restock>60</restock>
+        <min>0</min>
+        <quantmin>0</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="MAD_Halloween_Pants_PurpleCross">
+        <nominal>10</nominal>
+        <lifetime>4800</lifetime>
+        <restock>60</restock>
+        <min>0</min>
+        <quantmin>0</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+  </type>
+</types>
